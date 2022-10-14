@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  The WebMonster community today represents a collective of 260 developers and designers mainly from #Martinique, #Guadeloupe and #Guyana.
+  The WebMonster community today represents a collective of 260 developers and designers mainly from #Martinique, #Guadeloupe and #FrenchGuiana.
 </p>
 
 <p align="center"><b>Ours projects</b></p>
