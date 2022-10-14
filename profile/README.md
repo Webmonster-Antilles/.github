@@ -2,12 +2,13 @@
 
 <p align="center">
   <a href="https://webmonster.tech/">
-    <img src="https://jobboard.webmonster.tech/assets/images/webmonster/logo-dark.png" alt="Webmonster logo" width="181" height="36">
+    <img src="https://techmonster.info/assets/img/logo-webmonster-community.png" alt="Webmonster logo" width="330">
   </a>
 </p>
 
 <p align="center">
-  The WebMonster community today represents a collective of 260 developers and designers mainly from #Martinique, #Guadeloupe and #FrenchGuiana.
+  The WebMonster community today represents a collective of 260 developers and designers<br>
+  mainly from #Martinique, #Guadeloupe and #FrenchGuiana.
 </p>
 
 <p align="center"><b>Ours projects</b></p>
